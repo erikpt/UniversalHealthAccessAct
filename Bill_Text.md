@@ -37,7 +37,7 @@ This Act may be cited as the "Universal Healthcare Access Act of 2026" (UHAA).
 7. **Health Savings Account (HSA).** Tax-advantaged accounts under Section 223 of the Internal Revenue Code, available for qualified medical expenses.
 
 ### SECTION 4. ESTABLISHMENT OF UNIVERSAL COVERAGE
-(a) **Eligibility.** Every U.S. citizen, legal resident, and visitor shall be eligible for essential services under the HTF.
+(a) **Eligibility.** Every U.S. citizen, legal resident, and visitor, regardless of employment status, shall be eligible for essential services under the HTF.
 
 (b) **Hybrid System.**
    1. The HTF shall serve as the primary payer for essential services, replacing private insurance for these services.
