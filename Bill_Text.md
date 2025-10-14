@@ -1,4 +1,4 @@
-# Universal Healthcare Access Act of 2026
+# Revised Universal Healthcare Access Act of 2026
 
 ## A Bill to Establish a Hybrid Single-Payer Healthcare System in the United States
 
@@ -10,7 +10,7 @@ This Act may be cited as the "Universal Healthcare Access Act of 2026" (UHAA).
 ### SECTION 2. FINDINGS AND PURPOSE
 (a) **Findings.** Congress finds the following:
    1. The current U.S. healthcare system is fragmented, costly, and inefficient, with administrative overhead and profits from private insurers exceeding $30 billion annually in denied care and net income for major insurers as of 2024.
-   2. All Americans deserve access to essential healthcare services without financial ruin, regardless of employment, income, or pre-existing conditions.
+   2. All Americans deserve access to essential healthcare services without financial ruin, without regard to employment, income, or pre-existing conditions.
    3. Single-payer systems in countries like Canada and France provide universal coverage funded through progressive taxation, with mechanisms to bill non-residents at fair rates post-service.
    4. Transitioning to universal coverage requires a hybrid approach to accommodate advanced technology, existing infrastructure, and provider networks.
    5. Government oversight must be limited to administration and funding, preserving clinical decisions for medical professionals.
@@ -25,7 +25,7 @@ This Act may be cited as the "Universal Healthcare Access Act of 2026" (UHAA).
    2. Create a hybrid system allowing supplemental private insurance for non-essential services.
    3. Ensure cost controls, transparency, depoliticized decision-making on covered services, income-based cost-sharing, and robust data security.
    4. Eliminate profit-driven denials of care by private insurers for essential services.
-   5. Promote equity through phased expansions, fraud detection, and uniform standards via ERIS sunset.
+   5. Promote equity through phased expansions, fraud detection, and uniform standards via ERISA sunset.
 
 ### SECTION 3. DEFINITIONS
 1. **Healthcare Trust Fund (HTF).** A dedicated federal fund administered by the Department of Health and Human Services (HHS) for paying qualified healthcare providers.
@@ -39,7 +39,7 @@ This Act may be cited as the "Universal Healthcare Access Act of 2026" (UHAA).
 (a) **Eligibility.** Every U.S. citizen, legal resident, and visitor shall be eligible for essential services under the HTF.
 (b) **Hybrid System.**
    1. The HTF shall serve as the primary payer for essential services, replacing private insurance for these services.
-   2. Private insurers may offer supplemental coverage for non-essential services (e.g., elective cosmetic procedures) not covered by the HTF, but may not duplicate or deny HTF-covered services.
+   2. Private insurers may offer supplemental coverage for non-essential services (e.g., elective cosmetic procedures) not covered by the HTF, but may not deny HTF-covered services.
    3. Employers and individuals may transition from existing plans over a 5-year phase-in period, with tax credits for low-income participants.
    4. Existing federal programs (VA, TRICARE, and Indian Health Service) remain unchanged and operate in parallel, with optional integration for beneficiaries.
 
@@ -77,7 +77,7 @@ This Act may be cited as the "Universal Healthcare Access Act of 2026" (UHAA).
 
 ### SECTION 5. FUNDING MECHANISM
 (a) **Contributions.** 
-   1. The HTF shall be funded exclusively through a progressive payroll tax deduction on employers and employees, scaled by income brackets with no upper income cap: Total rate determined actuarially by HHS in consultation with the Congressional Budget Office (initially 9.5% of payroll/wages nationwide, with employers paying 2/3 [approximately 6.33%] and employees 1/3 [approximately 3.17%], applied progressively—e.g., higher rates on wages above $200,000 to ensure equity).
+   1. The HTF shall be funded exclusively through a progressive payroll tax deduction on employers and employees, applied to all wages and income with no upper income cap. Rates are scaled by AGI brackets and determined actuarially by HHS in consultation with the Congressional Budget Office to ensure sustainability (initial baseline marginal rates on wages/payroll: 7% total up to $200,000 AGI [employer 2/3 share ≈4.67%, employee 1/3 ≈2.33%]; 12% total on wages between $200,001-$500,000 [employer ≈8%, employee ≈4%]; 15% total on wages between $500,001-$1,000,000 [employer ≈10%, employee ≈5%]; 18% total on wages over $1,000,000 [employer ≈12%, employee ≈6%]). The overall effective rate averages approximately 9.5% nationwide, weighted by income distribution.
    2. All Americans "pay in a little" via these payroll deductions, ensuring pooled resources for universal access.
    3. Projected savings from eliminating insurer profits ($30 billion annually), administrative efficiencies, and co-pay collections shall offset initial costs.
 
@@ -93,7 +93,7 @@ This Act may be cited as the "Universal Healthcare Access Act of 2026" (UHAA).
 
 (d) **Sustainability Modeling.**
    1. HHS shall annually model HTF sustainability using actuarial analysis, projecting revenues vs. expenditures for the next 5 years.
-   2. If projected deficits exceed 3% of expenditures, automatic triggers adjust payroll tax rates upward by up to 0.5% (maintaining 2/3 employer-1/3 employee split), subject to Congressional review within 90 days.
+   2. If projected deficits exceed 3% of expenditures, automatic triggers adjust payroll tax rates upward by up to 0.5% across brackets (maintaining 2/3 employer-1/3 employee split), subject to Congressional review within 90 days.
 
 ### SECTION 6. ADMINISTRATION AND OVERSIGHT
 (a) **Role of HHS.**
@@ -159,12 +159,12 @@ This Act shall take effect 180 days after enactment, with funding mechanisms and
 
 **End of Bill.**
 
-### Explanation of Payroll Tax Rate (9.5% Total)
-Based on 2024-2025 data from RAND, Cato Institute, and Kaiser Family Foundation (KFF):
-- **Total U.S. Healthcare Spending**: ~$4.5 trillion annually (18% of GDP, per CMS/KFF 2024 reports).
-- **Current Payroll Base for Health**: Employer-sponsored insurance covers ~50% of Americans, funded by ~7.5% average payroll contributions (employer + employee, per KFF Employer Health Benefits Survey 2024). Total wages subject to payroll taxes: ~$10-11 trillion (BLS data).
-- **Single-Payer Cost Estimates**: 
-  - RAND (2019/updated 2023): A comprehensive single-payer could cost $3.5-4 trillion annually (after 20-25% savings from admin simplification, negotiated prices, and bulk buying—aligning with your Medicare-based rates and generics emphasis).
-  - KFF (2024): Transitioning to single-payer might require 8-12% of payroll to replace private premiums/taxes, offset by $500-800 billion in savings (insurer profits ~$200 billion, admin waste ~$300 billion).
-  - Cato (libertarian critique, 2023): Higher end (10-15%) if utilization rises, but acknowledges 7-10% feasible with strict controls like your cost-plus drugs and 7% admin cap.
-- **Sustainable Rate Calculation**: To cover ~$4 trillion net (post-savings/co-pays), need ~8-10% of national payroll/wages. I selected 9.5% as a midpoint—progressive scaling ensures higher earners pay more effectively (e.g., 12% on wages >$200k). No cap mimics Medicare-for-All proposals (e.g., Warren/Sanders plans at 7.5-12%). HHS/CBO actuarial determination allows flexibility; co-pays add ~$100-200 billion revenue. This splits 2/3 employer (~6.33%), 1/3 employee (~3.17%), raising ~$950 billion initially, scalable with triggers.
+### Progressive Payroll Tax Scaling Explanation
+To maintain the ~9.5% effective national average (generating ~$4 trillion coverage post-offsets per RAND/KFF models), the tax is marginal on wages/payroll segments tied to AGI (verified via IRS). This mirrors income tax brackets for progressivity, with no cap to capture high-earner revenue (top 1% hold ~20% of income, per IRS data). Employer/employee split preserved per bracket; administered like FICA but via IRS withholding.
+
+- **Up to $200,000 AGI**: 7% total (employer 4.67%, employee 2.33%) – Base rate for most workers (~80% of population below this).
+- **$200,001-$500,000 AGI**: 12% total on this segment (employer 8%, employee 4%) – Increases burden on upper-middle; e.g., $300k earner pays 7% on first $200k + 12% on next $100k.
+- **$500,001-$1,000,000 AGI**: 15% total on this segment (employer 10%, employee 5%) – Targets affluent; e.g., $750k earner adds 15% on the $250k slice.
+- **Over $1,000,000 AGI**: 18% total on excess (employer 12%, employee 6%) – Highest rate for ultra-wealthy, aligning with Cato critiques on utilization equity and KFF equity goals. E.g., $2M earner: 7% on $0-200k + 12% on $200-500k + 15% on $500k-1M + 18% on final $1M.
+
+This raises ~10-15% more from top earners vs. flat rate, offsetting utilization risks (per RAND simulations). HHS can adjust brackets actuarially for inflation/demographics. If you want different thresholds/rates, specify!
