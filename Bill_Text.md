@@ -46,7 +46,15 @@ This Act may be cited as the "Universal Healthcare Access Act of 2026" (UHAA).
 (c) **Non-Resident Billing.** Non-residents receiving services shall be billed post-service at fair market rates established by HHS, based on Medicare schedules plus a 20% administrative fee (inclusive of any applicable co-pays). Collection shall be pursued through international agreements where applicable.
 
 (d) **Patient Cost-Sharing (Co-Pays).**
-   1. **No Co-Pays for Low-Income Individuals.** Individuals with AGI of $75,000 or less (or $150,000 for households) pay $0 for all essential services.
+   1. **No Co-Pays for Low-Income Individuals.** Individuals with AGI of $75,000 or less (or $150,000 for households) pay $0 for all essential services with the following exceptions:
+      - Emergency Care: $50 per incident.
+      - Ambulance: $50 per trip.
+      - Hospital Stay: $25 per day, with a $500 annual out-of-pocket maximum per individual for this category.
+      - Prescription Drug: $10 or actual price of drug, whichever is less, per fill.
+      - Specialist Visit: $25 per visit.
+      - Diagnostic Imaging: $25 per procedure.
+      - Mental Health Session: $25 per session (phased in over Years 2-5).
+      - Vision Visit: $25 per visit; $50 for basic lenses, bifocals, trifocals, or frames (phased in over Years 2-5).
    2. **Standard Co-Pays for Mid-Income Individuals.** For individuals with AGI over $75,000 but $200,000 or less (or household equivalent):
       - Emergency Care: $100 per incident.
       - Ambulance: $100 per trip.
@@ -58,11 +66,12 @@ This Act may be cited as the "Universal Healthcare Access Act of 2026" (UHAA).
       - Labs: $10 per order (multiple tests may be combined in a single order).
       - Mental Health Session: $50 per session (phased in over Years 2-5).
       - Vision Visit: $25 per visit; $100 for basic lenses, bifocals, trifocals, or frames (phased in over Years 2-5).
-   3. **Doubled Co-Pays for High-Income Individuals.** For individuals with AGI over $200,000 (or household equivalent), co-pays in subsection (d)(2) are doubled.
-   4. **Annual OOP Cap.** Total out-of-pocket costs (all co-pays combined) capped at 5% of AGI annually, tracked via the National Health Portal; excesses refunded automatically.
-   5. **Administration of Co-Pays.** Providers collect co-pays at point of service; uncollected amounts may be billed to patients. HHS shall waive co-pays for financial hardship (verified via AGI or application). Annual out-of-pocket tracking via the National Health Portal to enforce caps.
-   6. **Exemptions.** Preventive care, vaccinations, pediatric services (under age 18), and telemedicine-specific overhead adjustments are exempt from additional fees; co-pays for telemedicine mirror in-person but reimbursements are 80% of in-person rates.
-   7. **Appeals Process.** Patients may appeal co-pay applications, waivers, or billing disputes to an independent HHS Ombuds Office within 30 days; appeals for waivers or reductions must include means-testing via AGI verification or hardship affidavit. Decisions binding and reviewable in federal court.
+   3. **Co-Pays for High-Income Individuals.** For individuals with AGI over $200,000 (or household equivalent), co-pays in subsection (d)(2) are doubled.
+   4. **Co-Pays for Highest-Income Individuals.** For individuals with AGI over $500,000 (or household equivalent), co-pays in subsection (d)(2) are trebled.
+   5. **Annual OOP Cap.** Total out-of-pocket costs (all co-pays combined) capped at 5% of AGI annually, tracked via the National Health Portal; excesses refunded automatically.
+   6. **Administration of Co-Pays.** Providers collect co-pays at point of service; uncollected amounts may be billed to patients. HHS shall waive co-pays for financial hardship (verified via AGI or application). Annual out-of-pocket tracking via the National Health Portal to enforce caps.
+   7. **Exemptions.** Preventive care, vaccinations, pediatric services (under age 18), and telemedicine-specific overhead adjustments are exempt from additional fees; co-pays for telemedicine mirror in-person but reimbursements are 80% of in-person rates.
+   8. **Appeals Process.** Patients may appeal co-pay applications, waivers, or billing disputes to an independent HHS Ombuds Office within 30 days; appeals for waivers or reductions must include means-testing via AGI verification or hardship affidavit. Decisions binding and reviewable in federal court.
 
 (e) **Telemedicine Parity.** Telemedicine services reimbursed at 80% of equivalent in-person rates due to lower overhead; co-pays remain unchanged. Providers must certify secure platforms compliant with cybersecurity standards.
 
@@ -73,18 +82,18 @@ This Act may be cited as the "Universal Healthcare Access Act of 2026" (UHAA).
    3. Projected savings from eliminating insurer profits ($30 billion annually), administrative efficiencies, and co-pay collections shall offset initial costs.
 
 (b) **Prohibition on Raiding Funds.** 
-   1. HTF funds shall be used solely for healthcare payments, administration (capped at 5% of expenditures), and fraud prevention.
+   1. HTF funds shall be used solely for healthcare payments, administration (capped at 7% of expenditures), and fraud prevention.
    2. Congress and the President are prohibited from borrowing, reallocating, or dismantling the HTF without a supermajority vote (three-fourths of both Houses) and ratification by three-fourths of states.
    3. This section encourages a constitutional amendment (proposed in Section 10) to permanently secure the HTF and Social Security Trust Fund from diversion.
 
 (c) **Cost Controls.**
    1. Maximum reimbursement rates for services shall be set at 100% of current Medicare schedules (net of co-pays), indexed annually to the Consumer Price Index for Medical Care (CPI-M).
    2. Providers shall be reimbursed directly by the HTF upon service verification, with co-pays deducted from patient responsibility.
-   3. **Rural Incentive Bonus.** Providers receive a 10% reimbursement bonus for services where both provider practice and patient reside in designated rural zip codes.
+   3. **Rural Incentive Bonus.** Providers receive a 10% reimbursement bonus for services where both provider practice and patient reside in designated rural zip codes as defined by USDA ERS RUCA codes and their zip code approximation.
 
 (d) **Sustainability Modeling.**
    1. HHS shall annually model HTF sustainability using actuarial analysis, projecting revenues vs. expenditures for the next 5 years.
-   2. If projected deficits exceed 3% of expenditures, automatic triggers adjust payroll tax rates upward by up to 0.5% (maintaining 2/3 employer-1/3 employee split) or expand the VAT base, subject to Congressional review within 90 days.
+   2. If projected deficits exceed 3% of expenditures, automatic triggers adjust payroll tax rates upward by up to 0.5% (maintaining 2/3 employer-1/3 employee split), subject to Congressional review within 90 days.
 
 ### SECTION 6. ADMINISTRATION AND OVERSIGHT
 (a) **Role of HHS.**
@@ -93,7 +102,7 @@ This Act may be cited as the "Universal Healthcare Access Act of 2026" (UHAA).
    3. If a Secretary attempts dismantling, an automatic injunction shall issue from the Supreme Court, triggered by a petition from 10 or more states.
 
 (b) **Clinical Decision-Making.**
-   1. Doctors and qualified providers alone shall determine medical necessity, triage, and scheduling based on patient needs and availability.
+   1. Doctors and qualified providers alone shall determine medical necessity, triage, and scheduling based on patient needs and provider availability.
    2. Patients may seek care from any qualified provider nationwide without network restrictions or prior authorizations.
 
 (c) **Medical Advisory Committee (MAC).**
@@ -149,5 +158,3 @@ If any provision is held invalid, the remainder shall remain in effect. Specific
 This Act shall take effect 180 days after enactment, with funding mechanisms and co-pay rules beginning in Fiscal Year 2027. 
 
 **End of Bill.** 
-
-This iteration tightens uniformity (via ERISA sunset), refines funding split, means-tests appeals, expands HIPAA explicitly, bolsters SCOTUS framing with commerce ties, locks in preemption language, and details reports/sunsets. The payroll rate is now actuarial with the 2/3-1/3 split—real implementation would need CBO to pin the initial %. Ready for more tweaks?
