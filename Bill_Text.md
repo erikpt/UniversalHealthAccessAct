@@ -1,4 +1,4 @@
-# Revised Universal Healthcare Access Act of 2026
+# Universal Healthcare Access Act of 2026
 
 ## A Bill to Establish a Hybrid Single-Payer Healthcare System in the United States
 
@@ -25,7 +25,7 @@ This Act may be cited as the "Universal Healthcare Access Act of 2026" (UHAA).
    2. Create a hybrid system allowing supplemental private insurance for non-essential services.
    3. Ensure cost controls, transparency, depoliticized decision-making on covered services, income-based cost-sharing, and robust data security.
    4. Eliminate profit-driven denials of care by private insurers for essential services.
-   5. Promote equity through phased expansions, fraud detection, and uniform standards via ERISA sunset.
+   5. Promote equity through phased expansions, fraud detection, and uniform standards via ERIS sunset.
 
 ### SECTION 3. DEFINITIONS
 1. **Healthcare Trust Fund (HTF).** A dedicated federal fund administered by the Department of Health and Human Services (HHS) for paying qualified healthcare providers.
@@ -77,8 +77,8 @@ This Act may be cited as the "Universal Healthcare Access Act of 2026" (UHAA).
 
 ### SECTION 5. FUNDING MECHANISM
 (a) **Contributions.** 
-   1. The HTF shall be funded through a progressive payroll tax on employers and employees, scaled by income brackets: Total rate determined actuarially (initially 6% of payroll, with employers paying 2/3 and employees 1/3), plus a 5% value-added tax on luxury goods.
-   2. All Americans "pay in a little" via these mechanisms, ensuring pooled resources for universal access.
+   1. The HTF shall be funded exclusively through a progressive payroll tax deduction on employers and employees, scaled by income brackets with no upper income cap: Total rate determined actuarially by HHS in consultation with the Congressional Budget Office (initially 9.5% of payroll/wages nationwide, with employers paying 2/3 [approximately 6.33%] and employees 1/3 [approximately 3.17%], applied progressively—e.g., higher rates on wages above $200,000 to ensure equity).
+   2. All Americans "pay in a little" via these payroll deductions, ensuring pooled resources for universal access.
    3. Projected savings from eliminating insurer profits ($30 billion annually), administrative efficiencies, and co-pay collections shall offset initial costs.
 
 (b) **Prohibition on Raiding Funds.** 
@@ -157,4 +157,14 @@ If any provision is held invalid, the remainder shall remain in effect. Specific
 ### SECTION 11. EFFECTIVE DATE
 This Act shall take effect 180 days after enactment, with funding mechanisms and co-pay rules beginning in Fiscal Year 2027. 
 
-**End of Bill.** 
+**End of Bill.**
+
+### Explanation of Payroll Tax Rate (9.5% Total)
+Based on 2024-2025 data from RAND, Cato Institute, and Kaiser Family Foundation (KFF):
+- **Total U.S. Healthcare Spending**: ~$4.5 trillion annually (18% of GDP, per CMS/KFF 2024 reports).
+- **Current Payroll Base for Health**: Employer-sponsored insurance covers ~50% of Americans, funded by ~7.5% average payroll contributions (employer + employee, per KFF Employer Health Benefits Survey 2024). Total wages subject to payroll taxes: ~$10-11 trillion (BLS data).
+- **Single-Payer Cost Estimates**: 
+  - RAND (2019/updated 2023): A comprehensive single-payer could cost $3.5-4 trillion annually (after 20-25% savings from admin simplification, negotiated prices, and bulk buying—aligning with your Medicare-based rates and generics emphasis).
+  - KFF (2024): Transitioning to single-payer might require 8-12% of payroll to replace private premiums/taxes, offset by $500-800 billion in savings (insurer profits ~$200 billion, admin waste ~$300 billion).
+  - Cato (libertarian critique, 2023): Higher end (10-15%) if utilization rises, but acknowledges 7-10% feasible with strict controls like your cost-plus drugs and 7% admin cap.
+- **Sustainable Rate Calculation**: To cover ~$4 trillion net (post-savings/co-pays), need ~8-10% of national payroll/wages. I selected 9.5% as a midpoint—progressive scaling ensures higher earners pay more effectively (e.g., 12% on wages >$200k). No cap mimics Medicare-for-All proposals (e.g., Warren/Sanders plans at 7.5-12%). HHS/CBO actuarial determination allows flexibility; co-pays add ~$100-200 billion revenue. This splits 2/3 employer (~6.33%), 1/3 employee (~3.17%), raising ~$950 billion initially, scalable with triggers.
