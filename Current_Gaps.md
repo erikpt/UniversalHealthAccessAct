@@ -1,4 +1,4 @@
-### Current Gaps in our Legislation
+# Current Gaps in our Legislation
 
 The current bill draft is comprehensive but could benefit from addressing several common gaps in universal healthcare proposals, based on analyses of similar plans like Medicare for All. Here's a prioritized list of potential omissions or areas for expansion:
 
