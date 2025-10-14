@@ -13,13 +13,14 @@ The current bill draft is comprehensive but could benefit from addressing severa
 5. **Detailed Transition for Existing Programs**: Section 7(a)(2) mentions integrating Medicare/Medicaid, but lacks specifics on avoiding disruptions. Add phased enrollment, beneficiary notifications, and continuity guarantees.
 
 6. **Equity for Vulnerable Populations**: Addresses rural areas but not urban disparities, immigrants (beyond visitors), or social determinants. Include targeted outreach or adjustments for low-SES groups.
+   - SES means Socioeconomic Status, so low-SES groups are people or communities with low levels of it, based on factors like income, education, and occupation.
 
-7. **Public Input Beyond MAC**: MAC has a comment period (Section 6(c)(3)), but no broader stakeholder engagement. Require annual town halls or advisory boards with patients/consumers.
+8. **Public Input Beyond MAC**: MAC has a comment period (Section 6(c)(3)), but no broader stakeholder engagement. Require annual town halls or advisory boards with patients/consumers.
 
-8. **Long-Term Care**: Not covered, a frequent gap. Phase in basic coverage or link to existing programs.
+9. **Long-Term Care**: Not covered, a frequent gap. Phase in basic coverage or link to existing programs.
 
-9. **Cost Scoring and Independent Review**: Sustainability modeling exists (Section 5(d)), but mandate initial CBO scoring pre-enactment.
+10. **Cost Scoring and Independent Review**: Sustainability modeling exists (Section 5(d)), but mandate initial CBO scoring pre-enactment.
 
-10. **Abortion/ Reproductive Services**: Not specified; clarify inclusion under essentials to avoid ambiguity.
+11. **Abortion/ Reproductive Services**: Not specified; clarify inclusion under essentials to avoid ambiguity.
 
 Prioritize based on your goals—e.g., add to Section 6(c) for equity reviews or Section 4 for access guarantees.
