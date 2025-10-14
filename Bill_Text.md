@@ -22,7 +22,7 @@ This Act may be cited as the "Universal Healthcare Access Act of 2026" (UHAA).
 
 (b) **Purpose.** The purpose of this Act is to:
    1. Establish a national Healthcare Trust Fund (HTF) as a single-payer mechanism for core services, funded by dedicated contributions.
-   2. Create a hybrid system allowing supplemental private insurance for non-essential services.
+   2. Create a hybrid system allowing supplemental private insurance for non-essential services and preserving Health Savings Accounts (HSAs) for individual use.
    3. Ensure cost controls, transparency, depoliticized decision-making on covered services, income-based cost-sharing, and robust data security.
    4. Eliminate profit-driven denials of care by private insurers for essential services.
    5. Promote equity through phased expansions, fraud detection, and uniform standards via ERISA sunset.
@@ -34,6 +34,7 @@ This Act may be cited as the "Universal Healthcare Access Act of 2026" (UHAA).
 4. **Non-Resident.** An individual visiting the United States without U.S. citizenship or permanent residency.
 5. **Adjusted Gross Income (AGI).** As reported on the most recent federal tax return, with annual verification via IRS data-sharing.
 6. **Rural Area.** Designated zip codes under the USDA Rural-Urban Continuum Codes (RUCC 4-9) or equivalent HHS metric.
+7. **Health Savings Account (HSA).** Tax-advantaged accounts under Section 223 of the Internal Revenue Code, available for qualified medical expenses.
 
 ### SECTION 4. ESTABLISHMENT OF UNIVERSAL COVERAGE
 (a) **Eligibility.** Every U.S. citizen, legal resident, and visitor shall be eligible for essential services under the HTF.
@@ -42,6 +43,7 @@ This Act may be cited as the "Universal Healthcare Access Act of 2026" (UHAA).
    2. Private insurers may offer supplemental coverage for non-essential services (e.g., elective cosmetic procedures) not covered by the HTF, but may not deny HTF-covered services.
    3. Employers and individuals may transition from existing plans over a 5-year phase-in period, with tax credits for low-income participants.
    4. Existing federal programs (VA, TRICARE, and Indian Health Service) remain unchanged and operate in parallel, with optional integration for beneficiaries.
+   5. **Preservation of HSAs.** Nothing in this Act shall restrict the establishment, contribution to, or use of HSAs for non-essential services, co-pays, or other qualified expenses not covered by the HTF; HSAs remain tax-deductible and may be offered by employers or individuals independently.
 
 (c) **Non-Resident Billing.** Non-residents receiving services shall be billed post-service at fair market rates established by HHS, based on Medicare schedules plus a 20% administrative fee (inclusive of any applicable co-pays). Collection shall be pursued through international agreements where applicable.
 
@@ -69,7 +71,7 @@ This Act may be cited as the "Universal Healthcare Access Act of 2026" (UHAA).
    3. **Co-Pays for High-Income Individuals.** For individuals with AGI over $200,000 (or household equivalent), co-pays in subsection (d)(2) are doubled.
    4. **Co-Pays for Highest-Income Individuals.** For individuals with AGI over $500,000 (or household equivalent), co-pays in subsection (d)(2) are trebled.
    5. **Annual OOP Cap.** Total out-of-pocket costs (all co-pays combined) capped at 5% of AGI annually, tracked via the National Health Portal; excesses refunded automatically.
-   6. **Administration of Co-Pays.** Providers collect co-pays at point of service; uncollected amounts may be billed to patients. HHS shall waive co-pays for financial hardship (verified via AGI or application). Annual out-of-pocket tracking via the National Health Portal to enforce caps.
+   6. **Administration of Co-Pays.** Providers collect co-pays at point of service; uncollected amounts may be billed to patients. HHS shall waive co-pays for financial hardship (verified via AGI or application). Annual out-of-pocket tracking via the National Health Portal to enforce caps. HSAs may be used to pay co-pays.
    7. **Exemptions.** Preventive care, vaccinations, pediatric services (under age 18), and telemedicine-specific overhead adjustments are exempt from additional fees; co-pays for telemedicine mirror in-person but reimbursements are 80% of in-person rates.
    8. **Appeals Process.** Patients may appeal co-pay applications, waivers, or billing disputes to an independent HHS Ombuds Office within 30 days; appeals for waivers or reductions must include means-testing via AGI verification or hardship affidavit. Decisions binding and reviewable in federal court.
 
@@ -131,12 +133,12 @@ This Act may be cited as the "Universal Healthcare Access Act of 2026" (UHAA).
    1. Year 1: Establish HTF, MAC lottery, funding streams, co-pay infrastructure (e.g., IRS integration), AI fraud systems, and National Health Portal.
    2. Years 2-5: Phase out private insurance for essential services; integrate Medicare/Medicaid into HTF; phase in mental health (full parity by Year 4) and vision services.
    3. Recognition of Challenges: Account for technology-driven costs by allocating 10% of HTF for innovation grants to providers adopting efficient tech (e.g., telemedicine). Pilot co-pay systems and rural bonuses in Year 1.
-   4. ERISA Sunset and Preemption: The Employee Retirement Income Security Act (ERISA) is sunset for health benefits effective Year 1; all employer-sponsored plans for essential services are preempted and transitioned to HTF contributions. Employers must redirect equivalent funds to payroll taxes.
+   4. ERISA Sunset and Preemption: The Employee Retirement Income Security Act (ERISA) is sunset for health benefits effective Year 1; all employer-sponsored plans for essential services are preempted and transitioned to HTF contributions. Employers must redirect equivalent funds to payroll taxes. HSAs remain available post-sunset for supplemental use.
 
 (b) **Impact on Stakeholders.**
    1. Insurance companies lose profits from essential services but may pivot to supplemental plans.
    2. Providers gain stable reimbursements without billing hassles, with co-pay collection streamlined via electronic systems and rural incentives.
-   3. Patients benefit from no-cost or low-cost essential care, with freedom to choose providers and income-scaled affordability.
+   3. Patients benefit from no-cost or low-cost essential care, with freedom to choose providers and income-scaled affordability, including continued HSA flexibility for extras.
 
 (c) **Annual Reporting and Evaluation.**
    1. HHS shall submit annual reports to Congress on outcomes: improvements in life expectancy, average wait times (target <30 days for non-emergent care), access equity metrics (e.g., rural vs. urban disparities), patient satisfaction rates, and cost savings compared to pre-Act baselines.
@@ -150,21 +152,11 @@ This Act may be cited as the "Universal Healthcare Access Act of 2026" (UHAA).
 If any provision is held invalid, the remainder shall remain in effect. Specifically, co-pay provisions are severable; if challenged, default to $0 co-pays for all.
 
 ### SECTION 10. PREEMPTION AND CONSTITUTIONAL SAFEGUARDS
-(a) **Preemption.** This Act preempts state laws conflicting with HTF operations under the Supremacy Clause (Article VI), including state insurance mandates, provider regulations, or benefit standards that duplicate or hinder federal uniformity in essential services (e.g., state-level co-pay caps or telemedicine restrictions).
+(a) **Preemption.** This Act preempts state laws conflicting with HTF operations under the Supremacy Clause (Article VI), including state insurance mandates, provider regulations, or benefit standards that duplicate or hinder federal uniformity in essential services (e.g., state-level co-pay caps or telemedicine restrictions). State HSA regulations remain in effect where not conflicting.
 (b) **Constitutional Basis.** All provisions are enacted under Congress's Commerce Clause authority (Article I, Section 8), as the HTF regulates interstate economic activity in healthcare—a national market where patients cross state lines for care, providers operate multi-state networks, and services impact commerce (consistent with precedents like Wickard v. Filburn and NFIB v. Sebelius). A bipartisan commission (5 Democrats, 5 Republicans appointed by congressional leaders) shall review implementation rules for constitutionality within 6 months of enactment; novel mechanisms (e.g., MAC lottery, automatic injunctions) are administrative procedures subject to judicial review, not delegations of legislative power.
 (c) **Proposed Constitutional Amendment.** Congress proposes an amendment to the Constitution: "The funds of the Healthcare Trust Fund and Social Security Trust Fund shall be inviolate and used solely for their designated purposes. No law shall divert or borrow from these funds without ratification by three-fourths of the states."
 
 ### SECTION 11. EFFECTIVE DATE
 This Act shall take effect 180 days after enactment, with funding mechanisms and co-pay rules beginning in Fiscal Year 2027. 
 
-**End of Bill.**
-
-### Progressive Payroll Tax Scaling Explanation
-To maintain the ~9.5% effective national average (generating ~$4 trillion coverage post-offsets per RAND/KFF models), the tax is marginal on wages/payroll segments tied to AGI (verified via IRS). This mirrors income tax brackets for progressivity, with no cap to capture high-earner revenue (top 1% hold ~20% of income, per IRS data). Employer/employee split preserved per bracket; administered like FICA but via IRS withholding.
-
-- **Up to $200,000 AGI**: 7% total (employer 4.67%, employee 2.33%) – Base rate for most workers (~80% of population below this).
-- **$200,001-$500,000 AGI**: 12% total on this segment (employer 8%, employee 4%) – Increases burden on upper-middle; e.g., $300k earner pays 7% on first $200k + 12% on next $100k.
-- **$500,001-$1,000,000 AGI**: 15% total on this segment (employer 10%, employee 5%) – Targets affluent; e.g., $750k earner adds 15% on the $250k slice.
-- **Over $1,000,000 AGI**: 18% total on excess (employer 12%, employee 6%) – Highest rate for ultra-wealthy, aligning with Cato critiques on utilization equity and KFF equity goals. E.g., $2M earner: 7% on $0-200k + 12% on $200-500k + 15% on $500k-1M + 18% on final $1M.
-
-This raises ~10-15% more from top earners vs. flat rate, offsetting utilization risks (per RAND simulations). HHS can adjust brackets actuarially for inflation/demographics. If you want different thresholds/rates, specify!
+**End of Bill.** 
