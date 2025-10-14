@@ -38,6 +38,7 @@ This Act may be cited as the "Universal Healthcare Access Act of 2026" (UHAA).
 
 ### SECTION 4. ESTABLISHMENT OF UNIVERSAL COVERAGE
 (a) **Eligibility.** Every U.S. citizen, legal resident, and visitor shall be eligible for essential services under the HTF.
+
 (b) **Hybrid System.**
    1. The HTF shall serve as the primary payer for essential services, replacing private insurance for these services.
    2. Private insurers may offer supplemental coverage for non-essential services (e.g., elective cosmetic procedures) not covered by the HTF, but may not deny HTF-covered services.
