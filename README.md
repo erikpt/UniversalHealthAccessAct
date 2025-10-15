@@ -3,9 +3,9 @@ We’re building this project in the open to craft people-centered legislation f
 
 Our mission is to convene patients, clinicians, researchers, technologists, advocates, and public servants to shape a framework that is inclusive, sustainable, and ready for legislative consideration. Whether you bring personal stories, data-driven insights, or drafting skills, your contribution helps refine the Universal Healthcare Access Act.
 
-Explore the current working draft of the bill [here](https://github.com/erikpt/UniversalHealthAccessAct/blob/main/Bill_Text.md), then share feedback, propose amendments, or suggest new ideas that advance the goal of equitable health care access.
+Explore the current working draft of the bill [here](Bill_Text.md), then share feedback, propose amendments, or suggest new ideas that advance the goal of equitable health care access.
 
-Please make comments, and suggestions by opening an [Issue](https://github.com/erikpt/UniversalHealthAccessAct/issues) or if you'd like to edit the bill text directly submit a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
+Please make comments, and suggestions by opening an [Issue](issues) or if you'd like to edit the bill text directly submit a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
 
 ## Repository Guide
 
