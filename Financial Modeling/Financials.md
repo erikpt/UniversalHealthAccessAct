@@ -12,7 +12,7 @@
 | **Annual Balance** | **+$693** | Flows exceed outlays → builds reserves / room for rate relief |
 | **Indexation** | **Core CPI** | Payment caps and thresholds indexed to core CPI; hospital budgets capped at **Core CPI + 0.5pp** |
 
-*See funding waterfall:* ![Waterfall](sandbox:/mnt/data/UHAA_funding_waterfall_2026.png)
+*See funding waterfall:* ![Waterfall](./images/UHAA_funding_waterfall_2026.png)
 
 ---
 
