@@ -50,7 +50,7 @@ See the **funding waterfall**: ![Waterfall](sandbox:/mnt/data/UHAA_funding_water
 - **Years 2–5:** Phase out private insurance for essentials; preserve supplemental markets.
 
 ## Links
-- **Full updated bill (Markdown):** [UHAA_Updated_CoreCPI_Financing.md](sandbox:/mnt/data/UHAA_Updated_CoreCPI_Financing.md)
-- **Back‑of‑the‑envelope appendix + waterfall:** [UHAA_BOTE_updated_with_waterfall.md](sandbox:/mnt/data/UHAA_BOTE_updated_with_waterfall.md)
-- **Microsim + re‑modeled financials:** [UHAA_microsim_and_reform_financials.md](sandbox:/mnt/data/UHAA_microsim_and_reform_financials.md)
+- **Full updated bill (Markdown):** [UHAA Bill Text](Bill_Text.md)
+- **Back‑of‑the‑envelope appendix + waterfall:** [Financial Model - Back of Envelope](Financial%20Modeling/UHAA_BOTE_updated_with_waterfall.md)
+- **Microsim + re‑modeled financials:** [Simulation and Reformed Model Financials](Financial%20Modeling/UHAA_microsim_and_reform_financials.md)
 
