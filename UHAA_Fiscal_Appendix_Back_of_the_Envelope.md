@@ -35,7 +35,7 @@ Low-Cost | $5,071B | $2,029B | $1,264B | $725B | $40B | $-3,041B
 Base | $5,279B | $1,954B | $1,264B | $650B | $40B | $-3,325B
 High-Cost | $5,680B | $1,854B | $1,264B | $550B | $40B | $-3,826B
 
-![Inflows vs Outlays Chart](sandbox:/mnt/data/UHAA_fiscal_chart.png)
+![Inflows vs Outlays Chart](./UHAA_fiscal_chart.png)
 
 ## Notes & Caveats
 - **Not a formal score.** These are directional magnitudes to inform drafting.
