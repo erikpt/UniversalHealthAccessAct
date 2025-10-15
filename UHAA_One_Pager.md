@@ -37,11 +37,11 @@
 | **Balance** | **+$693** |
 
 **Funding mix (2026, billions):** UHAA payroll **$2,617**, Medicare HI payroll **$413**, Employer MOE **$998**, Medicare B/D **$750**, Medicaid MOE **$950**, Co‑pays **$55**.  
-See the **funding waterfall**: ![Waterfall](sandbox:/mnt/data/UHAA_funding_waterfall_2026.png)
+See the **funding waterfall**: ![Waterfall](images/UHAA_funding_waterfall_2026.png)
 
 ## Multi‑Year Path (core‑CPI caps)
 - With outlays growing at **Core CPI + 0.5pp** and payroll base at ~**4.5%**/yr, the model shows **ongoing annual surpluses**.  
-- 2026–2033 projection & lines chart available: ![Inflows vs Outlays](sandbox:/mnt/data/UHAA_projection_lines.png)
+- 2026–2033 projection & lines chart available: ![Inflows vs Outlays](images/UHAA_projection_lines.png)
 
 ## Transition (Years 1–5)
 - **Year 1:** Stand up HTF & Portal; publish site‑neutral schedule; pilot hospital budgets.  
