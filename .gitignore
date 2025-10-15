@@ -1,1 +1,32 @@
+# macOS system files
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Volume root files
+.DocumentRevisions-V100
+.fseventsd
+.TemporaryItems
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# AFP share directories
+.AppleDouble
+.LSOverride
+
+# Windows compatibility (if cross-platform)
+Desktop.ini
+$RECYCLE.BIN/
+
+# Thumbnails
+us.thumbnails/
+
+# General development temp files
+*~
+*.swp
+*.tmp
+*.bak
