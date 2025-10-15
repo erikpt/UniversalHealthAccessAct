@@ -21,7 +21,7 @@ Assumptions: ~130M tax units; AGI distribution {60%,30%,8%,2%} with average AGIs
 - **Outflows (reform): ~$5,089B** (base $5,279B minus $190B new savings)
 - **Balance (mid): ~$693B**
 
-![Inflows vs Outlays Chart](./UHAA_reform_inflows_outflows.png)
+![Inflows vs Outlays Chart](./images/UHAA_reform_inflows_outflows.png)
 
 ### Range with employee rate at 5% and 9.5%
 - **Inflows (5%): ~$5,517B** → Balance **~$427B**
