@@ -1,11 +1,27 @@
 # UniversalHealthAccessAct
-Let's attempt to use the open-source ethos, methods and tools to write model legislation which creates a hybrid single payer health care system for the United States of America.
+We’re building this project in the open to craft people-centered legislation for a hybrid single-payer health care system in the United States. By combining policy expertise, real-world experience, and collaborative problem solving, we can design an approach that protects essential care for everyone while welcoming supplemental innovation.
 
-Read the current text of the bill [here](https://github.com/erikpt/UniversalHealthAccessAct/blob/main/Bill_Text.md)
+Our mission is to convene patients, clinicians, researchers, technologists, advocates, and public servants to shape a framework that is inclusive, sustainable, and ready for legislative consideration. Whether you bring personal stories, data-driven insights, or drafting skills, your contribution helps refine the Universal Healthcare Access Act.
 
-I'm looking for participation by anyone interested in improving health care in this country. I'm an IT pro, not a lawyer or a politician, but I think collectively we can make something great.
+Explore the current working draft of the bill [here](https://github.com/erikpt/UniversalHealthAccessAct/blob/main/Bill_Text.md), then share feedback, propose amendments, or suggest new ideas that advance the goal of equitable health care access.
 
 Please make comments, and suggestions by opening an [Issue](https://github.com/erikpt/UniversalHealthAccessAct/issues) or if you'd like to edit the bill text directly submit a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
+
+## Repository Guide
+
+Use the links below to quickly find the major reference documents in this project:
+
+* **Core Texts**
+  * [Bill Text](Bill_Text.md) – Full legislative language for the Universal Healthcare Access Act.
+  * [Executive One-Pager](UHAA_One_Pager.md) – High-level summary for quick briefings.
+  * [Best Ideas World One-Pager](UHAA_Best_Ideas_World_OnePager.md) – Comparative insights that shaped the proposal.
+  * [Current Gaps Analysis](Current_Gaps.md) – Overview of systemic issues the Act is designed to address.
+* **Financial Modeling**
+  * [Financials Overview](Financial%20Modeling/Financials.md) – Baseline assumptions and cost projections.
+  * [Back-of-the-Envelope Model](Financial%20Modeling/UHAA_BOTE_updated_with_waterfall.md) – Waterfall view of simplified financial modeling.
+  * [Microsimulation & Reform Financials](Financial%20Modeling/UHAA_microsim_and_reform_financials.md) – Detailed modeling for long-term sustainability.
+
+Additional context and supporting materials can be found in the `Background Information/` directory and related documents within the repository.
 
 
 
