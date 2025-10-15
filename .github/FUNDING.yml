@@ -1,0 +1,15 @@
+# These are supported funding model platforms
+
+github: erikpt # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
+patreon: # Replace with a single Patreon username
+open_collective: # Replace with a single Open Collective username
+ko_fi: erikpt # Replace with a single Ko-fi username
+tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
+community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
+liberapay: # Replace with a single Liberapay username
+issuehunt: # Replace with a single IssueHunt username
+lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
+polar: # Replace with a single Polar username
+buy_me_a_coffee: erikpt # Replace with a single Buy Me a Coffee username
+thanks_dev: # Replace with a single thanks.dev username
+custom: ['https://donate.lol/eth/0xb429aFeE23c20D9375D9F362b30A64Ce116eb683','https://donate.lol/btc/bc1q34k7w9v9qztrpsc5sq0tgk0jvmshuxl7m4zvpz','https://test.lol/solana:Ct79JykgaxZ1XKjJYiMs7BUuHMRveu1B3tsLE4pYtbQy'] # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
