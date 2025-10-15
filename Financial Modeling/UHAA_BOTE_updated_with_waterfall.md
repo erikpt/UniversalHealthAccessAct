@@ -38,7 +38,7 @@ Co-pays (microsim, after 5%-of-AGI caps) | $55B
 ## Funding Waterfall — 2026 Central Case
 The chart shows how each inflow component stacks up against total reformed outlays, leaving the net balance.
 
-![Funding Waterfall](UHAA_funding_waterfall_2026.png)
+![Funding Waterfall](./images/UHAA_funding_waterfall_2026.png)
 
 ---
 **Notes:**
