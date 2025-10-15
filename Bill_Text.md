@@ -1,4 +1,5 @@
-# Revised Universal Healthcare Access Act of 2026
+
+# Revised Universal Healthcare Access Act of 2026 (UHAA) — Updated Draft (Core‑CPI & Financing Aligned)
 
 ## A Bill to Establish a Hybrid Single-Payer Healthcare System in the United States
 
@@ -7,7 +8,6 @@
 ---
 
 ### SECTION 1. SHORT TITLE
-
 This Act may be cited as the **“Universal Healthcare Access Act of 2026” (UHAA).**
 
 ---
@@ -15,334 +15,272 @@ This Act may be cited as the **“Universal Healthcare Access Act of 2026” (UH
 ### SECTION 2. FINDINGS AND PURPOSE
 
 #### (a) Findings
-
 Congress finds the following:
 
 1. The current U.S. healthcare system is fragmented, costly, and inefficient, with administrative overhead and insurer profits exceeding $30 billion annually in denied care and net income for major insurers as of 2024.
-2. All Americans deserve access to essential healthcare services without financial ruin, without regard to employment, income, or pre-existing conditions.
-3. Single-payer systems in countries like Canada and France provide universal coverage funded through progressive taxation, with mechanisms to bill non-residents at fair rates post-service.
-4. Transitioning to universal coverage requires a hybrid approach to accommodate advanced technology, existing infrastructure, and provider networks.
-5. Government oversight must be limited to administration and funding, preserving clinical decisions for medical professionals.
-6. Protecting the system's integrity requires safeguards against political interference, including constitutional protections for funding.
-7. Modest co-pays for higher-income individuals can encourage responsible utilization while maintaining affordability and equity.
-8. Integration of mental health, vision, and telemedicine services, along with incentives for rural care and foreign-trained providers, will enhance access and sustainability.
-9. Employer self-insurance under ERISA fragments care standards and undermines national uniformity; sunsetting ERISA for health benefits promotes interstate commerce in healthcare services.
-10. This Act regulates interstate commerce, as patients may receive care across state lines without restrictions, facilitating a national market for healthcare delivery.
+2. All Americans deserve access to essential healthcare services without financial ruin, regardless of employment, income, or pre‑existing conditions.
+3. Single‑payer systems in peer nations demonstrate that universal coverage financed through broad‑based contributions, paired with cost controls, can achieve efficiency and equity.
+4. Transitioning to universal coverage in the United States requires a hybrid approach that preserves existing provider networks while simplifying administration and ensuring budget discipline.
+5. Oversight should be limited to funding and compliance, not clinical decision‑making by medical professionals.
+6. Protecting the system’s integrity requires safeguards against political interference, including protection for dedicated healthcare funds.
+7. Income‑based co‑pays may promote responsible utilization while maintaining affordability and equity.
+8. Integration of mental health, vision, and telemedicine services will strengthen outcomes, particularly for rural communities.
+9. ERISA‑based employer self‑insurance fragments standards; a unified national approach enhances interstate commerce and consistency.
+10. Healthcare is an instrument of interstate commerce, requiring national uniformity and regulatory authority under the Commerce Clause.
 
 #### (b) Purpose
-
 The purpose of this Act is to:
-
-1. Establish a national **Healthcare Trust Fund (HTF)** as a single-payer mechanism for core services, funded by dedicated contributions.
-2. Create a hybrid system allowing supplemental private insurance for non-essential services and preserving **Health Savings Accounts (HSAs)** for individual use.
-3. Ensure cost controls, transparency, depoliticized decision-making on covered services, income-based cost-sharing, and robust data security.
-4. Eliminate profit-driven denials of care by private insurers for essential services.
-5. Promote equity through phased expansions, fraud detection, and uniform standards via ERISA sunset.
+1. Establish a national **Healthcare Trust Fund (HTF)** as the single payer for **essential services**.
+2. Preserve a **hybrid** design allowing supplemental private insurance and continued use of **Health Savings Accounts (HSAs)** for non‑essential services.
+3. Align financing with scope by **redirecting existing federal and employer health dollars** into the HTF, while enforcing **cost controls** and **core‑CPI‑linked** growth limits.
+4. Eliminate profit‑driven denials of essential care and simplify administration.
+5. Promote equity through phased integration, anti‑fraud capability, and uniform national standards.
 
 ---
 
 ### SECTION 3. DEFINITIONS
-
-1. **Healthcare Trust Fund (HTF).** A dedicated federal fund administered by the Department of Health and Human Services (HHS) for paying qualified healthcare providers.
-2. **Essential Services.** Medical services, procedures, and pharmaceuticals initially based on those covered under Medicare as of 2026, subject to biennial review, including phased mental health and vision services.
+1. **Healthcare Trust Fund (HTF).** A dedicated federal fund administered by the Department of Health and Human Services (HHS) that pays qualified providers for essential services.
+2. **Essential Services.** Medical services, procedures, and pharmaceuticals initially based on those covered under Medicare as of 2026, subject to biennial review by the Medical Advisory Committee (MAC), including phased mental health and vision services.
 3. **Qualified Provider.** Any licensed healthcare professional or facility in the United States participating in the HTF, including telemedicine providers.
-4. **Non-Resident.** An individual visiting the United States without U.S. citizenship or permanent residency.
-5. **Adjusted Gross Income (AGI).** As reported on the most recent federal tax return, with annual verification via IRS data-sharing.
-6. **Rural Area.** Designated zip codes under the USDA Rural-Urban Continuum Codes (RUCC 4-9) or equivalent HHS metric.
-7. **Health Savings Account (HSA).** Tax-advantaged accounts under Section 223 of the Internal Revenue Code, available for qualified medical expenses.
+4. **Non‑Resident.** An individual visiting the United States without U.S. citizenship or permanent residency.
+5. **Adjusted Gross Income (AGI).** As reported on the most recent federal tax return, with annual verification via IRS data‑sharing.
+6. **Rural Area.** Designated zip codes under USDA Rural‑Urban Continuum Codes (RUCC 4‑9) or successor HHS metric.
+7. **Health Savings Account (HSA).** Tax‑advantaged accounts under Section 223 of the Internal Revenue Code for qualified medical expenses.
+8. **Core CPI.** The **Core Consumer Price Index** (all items less food and energy) as published by the Bureau of Labor Statistics; used for payment updates, caps, and automatic fiscal adjusters under this Act.
+9. **Employer Maintenance of Effort (Employer MOE).** A mandatory employer contribution to the HTF that replaces prior employer premium spending, calculated as a percentage of payroll or prior‑year employer health spend, as provided in Section 5.
+10. **Medicaid Maintenance of Effort (Medicaid MOE).** Federal and state contributions to HTF that maintain fiscal effort equivalent to pre‑Act Medicaid spending, as provided in Section 5.
 
 ---
 
 ### SECTION 4. ESTABLISHMENT OF UNIVERSAL COVERAGE
 
 #### (a) Eligibility.
-
-Every U.S. citizen, legal resident, and visitor, regardless of employment status, shall be eligible for essential services under the HTF.
+Every U.S. citizen, lawful resident, and visitor shall be eligible for **essential services** under the HTF.
 
 #### (b) Hybrid System.
+1. The HTF is the primary payer for essential services, replacing private insurance for those services.
+2. Private insurers may offer **supplemental** coverage for non‑essential services and amenities; they may not deny or delay HTF‑covered services.
+3. Employers and individuals transition over five years; low‑income participants receive refundable tax credits for supplemental coverage where appropriate.
+4. VA, TRICARE, and Indian Health Service remain operational; beneficiaries may opt to integrate with HTF per agency agreements.
+5. **Preservation of HSAs.** HSAs may be used for non‑essential services, co‑pays, or other qualified expenses; nothing in this Act restricts new or existing HSAs.
 
-1. The HTF shall serve as the primary payer for essential services, replacing private insurance for these services.
-2. Private insurers may offer supplemental coverage for non-essential services (e.g., elective cosmetic procedures) not covered by the HTF, but may not deny HTF-covered services.
-3. Employers and individuals may transition from existing plans over a 5-year phase-in period, with tax credits for low-income participants.
-4. Existing federal programs (VA, TRICARE, and Indian Health Service) remain unchanged and operate in parallel, with optional integration for beneficiaries.
-5. **Preservation of HSAs.** Nothing in this Act shall restrict the establishment, contribution to, or use of HSAs for non-essential services, co-pays, or other qualified expenses not covered by the HTF; HSAs remain tax-deductible and may be offered by employers or individuals independently.
+#### (c) Non‑Resident Billing.
+Non‑residents shall be billed post‑service at HHS‑established fair market rates based on Medicare schedules **plus 20%** administrative fee; international collection agreements may be used.
 
-#### (c) Non-Resident Billing.
-
-Non-residents receiving services shall be billed post-service at fair market rates established by HHS, based on Medicare schedules plus a 20% administrative fee (inclusive of any applicable co-pays). Collection shall be pursued through international agreements where applicable.
-
-#### (d) Patient Cost-Sharing (Co-Pays).
-
-1. **No Co-Pays for Low-Income Individuals.** Individuals with AGI of $75,000 or less (or $150,000 for households) pay $0 for all essential services with the following exceptions:
-
-   * Emergency Care: $50 per incident.
-   * Ambulance: $50 per trip.
-   * Hospital Stay: $25 per day, with a $500 annual out-of-pocket maximum per individual for this category.
-   * Prescription Drug: $10 or actual price of drug, whichever is less, per fill.
-   * Specialist Visit: $25 per visit.
-   * Diagnostic Imaging: $25 per procedure.
-   * Mental Health Session: $25 per session (phased in over Years 2-5).
-   * Vision Visit: $25 per visit; $50 for basic lenses, bifocals, trifocals, or frames (phased in over Years 2-5).
-2. **Standard Co-Pays for Mid-Income Individuals.** For individuals with AGI over $75,000 but $200,000 or less (or household equivalent):
-
-   * Emergency Care: $100 per incident.
-   * Ambulance: $100 per trip.
-   * Hospital Stay: $50 per day, with a $500 annual out-of-pocket maximum per individual for this category.
-   * Primary Care Visit: $20 per visit.
-   * Prescription Drug: $20 or actual price of drug, whichever is less, per fill.
-   * Specialist Visit: $50 per visit.
-   * Diagnostic Imaging: $50 per procedure.
-   * Labs: $10 per order (multiple tests may be combined in a single order).
-   * Mental Health Session: $50 per session (phased in over Years 2-5).
-   * Vision Visit: $25 per visit; $100 for basic lenses, bifocals, trifocals, or frames (phased in over Years 2-5).
-3. **Co-Pays for High-Income Individuals.** For individuals with AGI over $200,000 (or household equivalent), co-pays in subsection (d)(2) are doubled.
-4. **Co-Pays for Highest-Income Individuals.** For individuals with AGI over $500,000 (or household equivalent), co-pays in subsection (d)(2) are trebled.
-5. **Annual OOP Cap.** Total out-of-pocket costs (all co-pays combined) capped at 5% of AGI annually, tracked via the National Health Portal; excesses refunded automatically.
-6. **Administration of Co-Pays.** Providers collect co-pays at point of service; uncollected amounts may be billed to patients. HHS shall waive co-pays for financial hardship (verified via AGI or application). Annual out-of-pocket tracking via the National Health Portal to enforce caps. HSAs may be used to pay co-pays.
-7. **Exemptions.** Preventive care, vaccinations, pediatric services (under age 18), and telemedicine-specific overhead adjustments are exempt from additional fees; co-pays for telemedicine mirror in-person but reimbursements are 80% of in-person rates.
-8. **Appeals Process.** Patients may appeal co-pay applications, waivers, or billing disputes to an independent HHS Ombuds Office within 30 days; appeals for waivers or reductions must include means-testing via AGI verification or hardship affidavit. Decisions binding and reviewable in federal court.
+#### (d) Patient Cost‑Sharing (Co‑Pays).
+1. **Low‑Income (≤ $75,000 AGI individual / $150,000 household).** $0 for essential services except: ER $50; ambulance $50; hospital day $25 (max $500/yr for this category); Rx $10 or price if lower; specialist $25; imaging $25; mental health $25; vision visit $25 ($50 for basic lenses/bifocals/trifocals).  
+2. **Mid‑Income ($75,001–$200,000).** ER $100; ambulance $100; hospital day $50 (max $500/yr); primary care $20; Rx $20 or price if lower; specialist $50; imaging $50; labs $10 per order; mental health $50; vision $25 ($100 for basic lenses/bifocals/trifocals).  
+3. **High‑Income (>$200,000).** Co‑pays in paragraph (2) are **doubled**.  
+4. **Very‑High‑Income (>$500,000).** Co‑pays in paragraph (2) are **tripled**.  
+5. **Annual OOP Cap.** Total co‑pays are capped at **5% of AGI** annually, tracked via the National Health Portal; excess automatically refunded.  
+6. **Administration and Hardship.** Providers collect co‑pays; HHS may waive for hardship. HSAs may pay co‑pays.  
+7. **Exemptions.** Preventive care, vaccinations, pediatric services, and telemedicine overhead adjustments are exempt; telemedicine co‑pays mirror in‑person.  
+8. **Appeals.** Patients may appeal co‑pay determinations to the HHS Ombuds Office within 30 days; decisions are binding and judicially reviewable.
 
 #### (e) Telemedicine Parity.
-
-Telemedicine services reimbursed at 80% of equivalent in-person rates due to lower overhead; co-pays remain unchanged. Providers must certify secure platforms compliant with cybersecurity standards.
+Telemedicine services are reimbursed at **80%** of equivalent in‑person rates; platforms must meet federal cybersecurity standards.
 
 ---
 
-### SECTION 5. FUNDING MECHANISM
+### SECTION 5. FINANCING AND COST CONTROL (REVISED)
 
-#### (a) Contributions.
+#### (a) Four‑Pillar Financing.
+To align revenue with scope and ensure fiscal balance, the HTF is financed through the following consolidated pillars:
 
-1. The HTF shall be funded exclusively through a progressive payroll tax deduction on employers and employees, applied to all wages and income with no upper income cap. Rates are scaled by AGI brackets and determined actuarially by HHS in consultation with the Congressional Budget Office to ensure sustainability (initial baseline marginal rates on wages/payroll: 7% total up to $200,000 AGI [employer 2/3 share ≈4.67%, employee 1/3 ≈2.33%]; 12% total on wages between $200,001-$500,000 [employer ≈8%, employee ≈4%]; 15% total on wages between $500,001-$1,000,000 [employer ≈10%, employee ≈5%]; 18% total on wages over $1,000,000 [employer ≈12%, employee ≈6%]). The overall effective rate averages approximately 9.5% nationwide, weighted by income distribution.
-2. All Americans "pay in a little" via these payroll deductions, ensuring pooled resources for universal access.
-3. Projected savings from eliminating insurer profits ($30 billion annually), administrative efficiencies, and co-pay collections shall offset initial costs.
+1. **UHAA Payroll Contribution.**  
+   (A) **Employer portion (doubled).** Employer marginal contribution rates are **doubled** relative to the prior baseline, resulting in:  
+   • Up to $200,000 AGI: **9.33%** employer;  
+   • $200,001–$500,000: **16%** employer;  
+   • $500,001–$1,000,000: **20%** employer;  
+   • Over $1,000,000: **24%** employer.  
+   (B) **Employee portion.** Employee marginal contribution rates are **capped at 9.5%** and **may not fall below 5%** for individuals and households **at or above 105% of the federal poverty line (FPL)**; individuals and households **below 105% FPL** owe **0%** employee contribution.  
+   (C) Contributions apply to all wages and compensation with no upper cap. The Secretary shall issue regulations to prevent misclassification and avoidance.
 
-#### (b) Prohibition on Raiding Funds.
+2. **Medicare Realignment.**  
+   (A) **Medicare Hospital Insurance (HI) payroll tax** and the **existing HI Trust Fund balance** are consolidated into the HTF.  
+   (B) **Medicare Parts B and D** general revenue contributions are **redirected** to the HTF, with beneficiary protections maintained.
 
-1. HTF funds shall be used solely for healthcare payments, administration (capped at 7% of expenditures), and fraud prevention.
-2. Congress and the President are prohibited from borrowing, reallocating, or dismantling the HTF without a supermajority vote (three-fourths of both Houses) and ratification by three-fourths of states.
-3. This section encourages a constitutional amendment (proposed in Section 10) to permanently secure the HTF and Social Security Trust Fund from diversion.
+3. **Medicaid Maintenance of Effort (Medicaid MOE).** Federal and state Medicaid funding streams are **redirected** to the HTF on a maintenance‑of‑effort basis equal to pre‑Act levels, with state contributions indexed to **core CPI** and adjusted for enrollment.
 
-#### (c) Cost Controls.
+4. **Employer Maintenance of Effort (Employer MOE).** Employers shall remit to the HTF the **greater of**:  
+   (A) **7.5% of payroll**, or  
+   (B) The employer’s **inflation‑adjusted** prior‑year spending on employee health benefits (premiums, HRA/HSA contributions, and equivalent), net of employee contributions.  
+   Credits are available to avoid double‑payment against the employer portion of the UHAA payroll contribution. The Secretary shall prevent evasion via workforce reclassification.
 
-1. Maximum reimbursement rates for services shall be set at 100% of current Medicare schedules (net of co-pays), indexed annually to the Consumer Price Index for Medical Care (CPI-M).
-2. Providers shall be reimbursed directly by the HTF upon service verification, with co-pays deducted from patient responsibility.
-3. **Rural Incentive Bonus.** Providers receive a 10% reimbursement bonus for services where both provider practice and patient reside in designated rural zip codes as defined by USDA ERS RUCA codes and their zip code approximation.
+#### (b) Exclusivity; Anti‑duplication.
+Amounts redirected under this Section replace duplicative outlays for essential services under prior programs. No other federal agency may pay for essential services outside the HTF, except as authorized for VA, TRICARE, and IHS.
 
-#### (d) Sustainability Modeling.
+#### (c) Payment Updates; Core‑CPI Indexation.
+1. **Reimbursement Index.** Maximum reimbursement rates for HTF‑covered services are tied to **100% of current Medicare schedules**, **indexed annually to core CPI**.  
+2. **Automatic Adjusters.** All statutory caps, thresholds, penalties, and administrative limits under this Act are indexed to **core CPI** unless otherwise specified.
 
-1. HHS shall annually model HTF sustainability using actuarial analysis, projecting revenues vs. expenditures for the next 5 years.
-2. If projected deficits exceed 3% of expenditures, automatic triggers adjust payroll tax rates upward by up to 0.5% across brackets (maintaining 2/3 employer-1/3 employee split), subject to Congressional review within 90 days.
+#### (d) Hospital Global Budgets; Site‑Neutral Payment.
+1. **All‑Payer Global Budgets.** Beginning in plan year 2, hospitals shall be paid under **global budgets** established by HHS (or approved state rate‑setting entities). Aggregate budget growth shall not exceed **core CPI + 0.5 percentage points** annually unless waived for population need or declared emergencies.  
+2. **Site‑Neutrality & Facility Fees.** For routine outpatient services (including imaging, labs, and telehealth), the HTF shall pay **site‑neutral** rates. **Facility fees** for off‑campus or non‑hospital settings are prohibited unless HHS determines clear cost justification.  
+3. **Primary‑Care & Behavioral Health Models.** HHS may implement **risk‑adjusted capitation** for primary care and behavioral health with retrospective outlier review.
+
+#### (e) Administrative Cap.
+HTF administrative expenditures shall not exceed **7%** of total HTF outlays.
+
+#### (f) Sustainability Modeling and Triggers.
+1. HHS shall annually model five‑year revenues and outlays.  
+2. If projected deficits exceed **3%** of outlays, **automatic, temporary adjustments** shall increase UHAA payroll rates by up to **0.5 percentage points** across brackets and/or raise Employer MOE by up to **0.5 percentage points of payroll**, subject to a joint resolution of disapproval.  
+3. If cumulative reserves exceed **two months of outlays** for two consecutive years, the Secretary may **reduce** UHAA payroll rates or Employer MOE by up to **0.5 percentage points**, consistent with actuarial balance.
 
 ---
 
 ### SECTION 6. ADMINISTRATION AND OVERSIGHT
 
 #### (a) Role of HHS.
+1. HHS shall administer payments, verify services, combat fraud using AI‑assisted detection with human oversight, and manage IRS data integration for income verification; HHS may not direct clinical decisions.  
+2. **Prohibition on Unilateral Changes.** The Secretary may not unilaterally change covered benefits, eligibility, reimbursement rates, or co‑pays. Changes require MAC approval and a joint resolution of Congress within 90 days. Civil penalties up to $1,000,000 per violation apply.  
+3. **Prevention of Executive Interference.** No executive action may alter this Act absent statute; unlawful actions are null and void and subject to expedited judicial review under the APA.  
+4. **Automatic Injunction Mechanism.** If an executive official attempts to impair the HTF, a petition by 10 or more states shall trigger an **automatic preliminary injunction** pending expedited review by the Supreme Court.
 
-1. HHS shall administer payments, verify services rendered, combat fraud via AI-driven detection systems, and manage co-pay data integration with IRS for income verification, but shall not deny care, set triage priorities, or limit doctor-patient decisions.
-2. **Prohibition on Unilateral Changes ("Handcuffing" Provision).** The Secretary of HHS, or any designee, proxy, subordinate, or acting official, is expressly prohibited from making any unilateral programmatic alterations, including but not limited to changes in essential services coverage, reimbursement rates, eligibility criteria, co-pay structures, or administrative procedures. Any proposed alteration must first receive majority approval from the Medical Advisory Committee (MAC) through its formal review process and subsequent ratification by a joint resolution of Congress within 90 days of MAC recommendation. Violations shall trigger immediate administrative sanctions, including potential removal from office via congressional oversight or judicial mandate, and civil penalties up to $1 million per violation.
-3. **Prevention of Executive Interference.** No executive order, directive, memorandum, or other executive action issued by the President or any federal agency shall modify, suspend, or dismantle any provision of this Act, the HTF operations, or MAC decisions without explicit congressional authorization via statute. Any such executive action purporting to do so shall be deemed null and void ab initio, subject to immediate judicial review under the Administrative Procedure Act (5 U.S.C. § 701 et seq.), with expedited standing granted to any state, MAC member, or affected beneficiary to challenge in federal court.
-4. **Automatic Injunction Mechanism.** If the Secretary or any executive official attempts to dismantle, defund, or substantially impair the HTF or this Act's implementation (as evidenced by official actions, directives, or public statements), a petition signed by the attorneys general or governors of 10 or more states may be filed directly with the Supreme Court of the United States. Upon receipt, the Court shall issue an automatic preliminary injunction halting the attempted action pending full review, with oral arguments scheduled within 30 days and a final decision required within 90 days. The injunction shall remain in effect unless lifted by a majority vote of the Court, ensuring continuity of HTF operations during litigation.
-
-#### (b) Clinical Decision-Making.
-
-1. Doctors and qualified providers alone shall determine medical necessity, triage, and scheduling based on patient needs and provider availability.
-2. Patients may seek care from any qualified provider nationwide without network restrictions or prior authorizations.
-3. **Enforcement of Patient Choice.** To ensure compliance with subsection (b)(2): (i) Providers or facilities imposing unauthorized network restrictions or prior authorizations on HTF-covered services shall face civil penalties of up to $100,000 per violation, enforced by HHS through audits and investigations; (ii) Patients denied care due to such restrictions may file complaints via the National Health Portal, triggering expedited HHS review within 30 days, with remedies including retroactive reimbursement, provider sanctions, and compensatory damages up to $50,000; (iii) Annual GAO audits shall monitor compliance, reporting violations to Congress; (iv) Whistleblower protections apply for reporting non-compliance, with rewards up to 10% of recovered funds; (v) HHS shall maintain a public database of violators to promote transparency and deterrence.
+#### (b) Clinical Decision‑Making and Patient Choice.
+1. Medical necessity, triage, and scheduling are determined by qualified providers.  
+2. Patients may seek care from any qualified provider nationwide without prior authorization or network restrictions.  
+3. **Enforcement of Patient Choice.** Unauthorized restrictions are subject to civil penalties up to $100,000 per violation, with whistleblower protections and GAO oversight.
 
 #### (c) Medical Advisory Committee (MAC).
-
-1. **Composition.** Two doctors per state (100 total), selected by random lottery from all licensed physicians in each state. Terms: 2 years, non-renewable, starting in odd-numbered years (opposite congressional elections).
-2. **Duties.** Biennial review of essential services list (including co-pay applicability and phased expansions like mental health/vision), recommending additions/removals based on evidence-based medicine, cost-effectiveness, and technological advancements. Initial list mirrors Medicare-covered services.
-3. **Depoliticization.** Lottery ensures randomized representation of specialties; no political appointments. Decisions require a two-thirds majority and are binding unless overridden by Congress via joint resolution.
+1. **Composition.** Two physicians per state (100 total), selected by lottery; two‑year non‑renewable terms.  
+2. **Duties.** Biennial review of essential services and co‑pay applicability; recommendations require a two‑thirds vote and are binding unless overridden by Congress.
 
 #### (d) Pharmaceutical Pricing.
+1. **Generics First.** HTF prioritizes generics when clinically appropriate.  
+2. **HTF‑Wide Negotiation.** HHS shall negotiate **cost‑plus** and **class‑based** prices and may use **international reference pricing** for launches.  
+3. **No Coverage Gaps.** The HTF provides continuous essential drug coverage without donut holes; beneficiary OOP counts toward the 5%‑of‑AGI cap.
 
-1. **Emphasis on Generics.** HTF reimbursements prioritize generic equivalents where available.
-2. **Negotiated Pricing.** HHS shall negotiate cost-plus contracts (manufacturing cost + 15% profit margin) with pharmaceutical companies for brand-name drugs. Bulk purchasing shall leverage national scale for discounts. Co-pays apply after negotiated pricing.
-3. **Elimination of Coverage Gaps ("Donut Hole" Prohibition).** The HTF shall provide continuous coverage for all essential pharmaceuticals without deductibles, phase-based limitations, or spending thresholds that increase beneficiary out-of-pocket costs beyond the fixed co-pays specified in Section 4(d). Annual drug-specific out-of-pocket expenses shall be included in the overall 5% AGI cap under Section 4(d)(5), with no separate gaps or catastrophic phases. HHS shall monitor and report annually on drug affordability, adjusting negotiations as needed to ensure no beneficiary faces undue financial barriers.
-
-#### (e) Fraud Detection and National Health Portal.
-
-1. **AI-Driven Fraud Detection.** HHS shall deploy artificial intelligence systems to analyze claims patterns, with flagged anomalies referred for audit; funded within the administrative cap. AI ethics require bias audits and human oversight.
-2. **National Health Portal.** A secure, centralized platform for out-of-pocket tracking, electronic health records, and telemedicine access.
-3. **HIPAA Expansions.** The Health Insurance Portability and Accountability Act (HIPAA) is amended to: (i) mandate nationwide interoperability standards for electronic health records, ensuring seamless data exchange across providers and the Portal; (ii) grant patients full ownership and portable control over their records, with mandatory opt-in consent for any sharing beyond direct care; (iii) require AI and algorithmic tools (e.g., fraud detection) to undergo annual bias and accuracy audits by independent entities; (iv) impose mandatory 24-hour breach notifications to patients and HHS, with fines scaled to harm; (v) expand protections to de-identified data used in research, requiring anonymization protocols and patient opt-out rights; (vi) enforce cybersecurity via NIST standards integration, including end-to-end encryption and regular penetration testing for all Portal-connected systems.
+#### (e) Fraud & National Health Portal.
+1. **AI‑Driven Fraud Detection** with annual bias/accuracy audits; human review required for adverse actions.  
+2. **National Health Portal** provides OOP tracking, longitudinal health records, and telemedicine.  
+3. **HIPAA Expansions.** Interoperability mandates, patient data ownership, 24‑hour breach notices, protections for de‑identified data, and NIST‑aligned cybersecurity.
 
 #### (f) Provider Participation.
-
-1. **Incentives.** Student loan forgiveness (up to $100,000) for providers committing 5 years to HTF; enhanced reimbursements in underserved areas.
-2. **Participation Lever.** No federal mandate for provider opt-in, but all Medicare-certified providers must participate or lose other federal funding eligibility. Facilities receiving federal funds pre-Act must join.
+1. **Incentives.** Up to **$100,000** student‑loan forgiveness for 5‑year service; enhanced payments in underserved areas.  
+2. **Participation Lever.** All Medicare‑certified providers must join HTF or forfeit federal healthcare program eligibility; facilities receiving federal funds pre‑Act must join.
 
 #### (g) Immigration for Providers.
-
-1. Expanded visas (e.g., EB-2 extensions) and fast-track citizenship paths for foreign-trained doctors who obtain U.S. certification, commit to 5 years of in-person practice in the U.S., with priority for rural areas.
+Expanded visas and expedited naturalization for foreign‑trained clinicians who obtain U.S. certification and commit to five years of service, with rural prioritization.
 
 #### (h) Protection Against Executive Orders.
-
-In addition to subsection (a)(3), any attempt to use executive authority to circumvent this Act's provisions shall be subject to immediate challenge in federal court by any aggrieved party, with a presumption of irreparable harm favoring injunctive relief. Congress shall retain exclusive authority over amendments, ensuring the hybrid system's stability.
+As stated above, any attempt to circumvent this Act is subject to immediate judicial challenge with a presumption of irreparable harm and expedited relief.
 
 ---
 
 ### SECTION 7. TRANSITION AND IMPLEMENTATION
 
 #### (a) Timeline.
-
-1. **Year 1:** Establish HTF, MAC lottery, funding streams, co-pay infrastructure (e.g., IRS integration), AI fraud systems, and National Health Portal.
-2. **Years 2–5:** Phase out private insurance for essential services; integrate Medicare/Medicaid into HTF; phase in mental health (full parity by Year 4) and vision services.
-3. **Recognition of Challenges:** Allocate 10% of HTF for innovation grants to providers adopting efficient tech (e.g., telemedicine). Pilot co-pay systems and rural bonuses in Year 1.
-4. **ERISA Sunset and Preemption:** ERISA is sunset for health benefits effective Year 1; all employer-sponsored plans for essential services are preempted and transitioned to HTF contributions. Employers must redirect equivalent funds to payroll taxes. HSAs remain available post-sunset for supplemental use.
+1. **Year 1.** Establish HTF, MAC lottery, data pipelines (IRS, CMS, states), National Health Portal, and payment operations; publish initial **site‑neutral** schedule; pilot hospital global budgets.  
+2. **Year 2.** Consolidate **Medicare HI** and **Parts B/D** flows into HTF; launch national **global budgets** for hospitals with **core‑CPI+0.5** growth caps; begin Employer MOE at **5%** of payroll.  
+3. **Years 3–4.** Raise Employer MOE to **7.5%**; complete Medicaid MOE transition for all states; phase in mental health parity and vision coverage.  
+4. **Years 2–5.** Phase‑out private insurance for essential services; fully implement site‑neutral payments and facility‑fee restrictions.
 
 #### (b) Impact on Stakeholders.
+1. Insurers pivot to supplemental markets and administrative services.  
+2. Providers gain stable cash flow with simpler billing and defined growth paths.  
+3. Patients gain access, free choice of qualified providers, and income‑scaled affordability; HSAs remain for extras.
 
-1. Insurance companies lose profits from essential services but may pivot to supplemental plans.
-2. Providers gain stable reimbursements without billing hassles, with co-pay collection streamlined via electronic systems and rural incentives.
-3. Patients benefit from no-cost or low-cost essential care, with freedom to choose providers and income-scaled affordability, including continued HSA flexibility for extras.
-
-#### (c) Annual Reporting and Evaluation.
-
-1. HHS shall submit annual reports to Congress on outcomes: improvements in life expectancy, average wait times (target <30 days for non-emergent care), access equity metrics (e.g., rural vs. urban disparities), patient satisfaction rates, and cost savings compared to pre-Act baselines.
-2. **Sunset Clauses.** If goals (e.g., 90% satisfaction rates per independent surveys, deficit <3%, wait times met) are unmet for 3 consecutive years per GAO review, affected provisions (e.g., co-pays or expansions) auto-expire unless reauthorized by Congress.
+#### (c) Reporting.
+HHS shall report annually on coverage, wait times (<30 days for non‑urgent care), equity metrics, patient satisfaction, and financial balance versus baselines.
 
 ---
 
 ### SECTION 8. ENFORCEMENT AND PENALTIES
 
 #### (a) Fraud Definitions and Penalties.
-
-1. **Definition of Fraud.** For purposes of this Act, fraud includes any intentional deception, misrepresentation, or omission in claims submission, service provision, co-pay evasion, or billing that results in improper HTF payments or benefits, as determined by HHS in consultation with the Department of Justice.
-2. **Provider Fraud.** Providers committing fraud shall be subject to: (i) for the first occurrence, fines up to $2.5 million and imprisonment of not less than 180 days; (ii) for the second occurrence, fines up to $5 million, imprisonment of not less than 1 year, and permanent revocation of all medical licenses and HTF participation eligibility; (iii) for subsequent occurrences, enhanced fines and mandatory imprisonment terms as determined by federal courts. Providers may appeal penalties to an independent HHS review board within 60 days.
-3. **Patient Fraud.** Patients committing fraud shall be subject to: (i) for the first occurrence, fines up to $250,000; (ii) for the second occurrence, fines up to $500,000 and imprisonment of not less than 90 days; (iii) for the third and subsequent occurrences, fines up to $1 million and imprisonment of not less than 1 year. Patients may appeal penalties to the HHS Ombuds Office within 30 days.
-4. **Co-Pay Evasion and Collection.** Intentional co-pay evasion constitutes fraud and is punishable under subsections (a)(2) or (a)(3) as applicable. For non-fraudulent missed co-pays by U.S. citizens, legal residents, or individuals with a valid Individual Taxpayer Identification Number (ITIN), unpaid amounts shall be collectible by the Internal Revenue Service (IRS) as part of the participant's annual tax return, with standard IRS interest and penalties applying.
+1. **Fraud** includes intentional deception or omission in claims, service provision, or co‑pay collection that causes improper HTF payments.  
+2. **Provider Fraud.** Fines up to **$2.5M** and ≥180 days imprisonment for the first occurrence; up to **$5M** and ≥1 year imprisonment plus license revocation for the second; enhanced penalties thereafter.  
+3. **Patient Fraud.** Fines up to **$250k** (first), **$500k** and ≥90 days (second), **$1M** and ≥1 year (subsequent).  
+4. **Co‑Pay Evasion.** Intentional evasion is fraud; non‑fraudulent missed co‑pays by citizens, lawful residents, or ITIN filers may be collected by the IRS through normal processes.
 
 #### (b) Audits and Oversight.
-
-The Government Accountability Office (GAO) shall conduct annual independent audits of HTF operations, including co-pay compliance, AI fraud detection efficacy, reimbursement accuracy, and MAC decisions. HHS shall implement GAO recommendations within 180 days or provide justification to Congress. Whistleblower protections under existing federal laws (e.g., False Claims Act) apply to reports of fraud or misuse.
+GAO shall perform annual independent audits of HTF operations, payment accuracy, AI efficacy, and MAC decisions; HHS must implement recommendations within 180 days or explain to Congress.
 
 #### (c) Additional Safeguards.
-
-Enforcement shall be led by the HHS Office of Inspector General (OIG), with a 5-year statute of limitations for fraud investigations. Civil penalties may apply for negligent (non-intentional) violations, up to $500,000 per incident without imprisonment.
+OIG enforces with a five‑year statute of limitations; negligent violations may incur civil penalties up to **$500k** per incident.
 
 ---
 
 ### SECTION 9. SEVERABILITY
-
-If any provision is held invalid, the remainder shall remain in effect. Specifically, co-pay provisions are severable; if challenged, default to $0 co-pays for all.
+If any provision is held invalid, the remainder shall remain in effect. Co‑pay provisions are severable; if invalidated, default to **$0** co‑pays for all until Congress acts.
 
 ---
 
 ### SECTION 10. PREEMPTION AND CONSTITUTIONAL SAFEGUARDS
 
 #### (a) Preemption.
-
-This Act preempts state laws conflicting with HTF operations under the Supremacy Clause (Article VI), including state insurance mandates, provider regulations, or benefit standards that duplicate or hinder federal uniformity in essential services (e.g., state-level co-pay caps or telemedicine restrictions). State HSA regulations remain in effect where not conflicting.
+This Act preempts state laws that conflict with HTF operations, including duplicative mandates or restrictions that hinder uniform national standards for essential services. State HSA rules remain where not conflicting.
 
 #### (b) Constitutional Basis.
-
-All provisions are enacted under Congress's Commerce Clause authority (Article I, Section 8), as the HTF regulates interstate economic activity in healthcare—a national market where patients cross state lines for care, providers operate multi-state networks, and services impact commerce (consistent with precedents like *Wickard v. Filburn* and *NFIB v. Sebelius*). A bipartisan commission (5 Democrats, 5 Republicans appointed by congressional leaders) shall review implementation rules for constitutionality within 6 months of enactment; novel mechanisms (e.g., MAC lottery, automatic injunctions) are administrative procedures subject to judicial review, not delegations of legislative power.
+This Act is enacted under the Commerce Clause (Article I, Section 8), as HTF regulates interstate economic activity in healthcare, a national market with multi‑state delivery and cross‑border impacts. Mechanisms such as MAC and injunctions are administrative procedures subject to judicial review, not delegations of legislative power.
 
 #### (c) Proposed Constitutional Amendment.
-
-Congress proposes an amendment to the Constitution: "The funds of the Healthcare Trust Fund and Social Security Trust Fund shall be inviolate and used solely for their designated purposes. No law shall divert or borrow from these funds without ratification by three-fourths of the states."
+“The funds of the Healthcare Trust Fund and Social Security Trust Fund shall be inviolate and used solely for their designated purposes. No law shall divert or borrow from these funds without ratification by three‑fourths of the states.”
 
 ---
 
 ### SECTION 11. EFFECTIVE DATE
-
-This Act shall take effect 180 days after enactment, with funding mechanisms and co-pay rules beginning in Fiscal Year 2027.
+This Act takes effect **180 days** after enactment. Funding mechanisms and co‑pay rules begin in **FY 2027**, with transition milestones per Section 7.
 
 ---
 
 ### SECTION 12. WORKFORCE EXPANSION AND TRAINING INITIATIVE
+**(a) National Healthcare Workforce Expansion Plan.** Within 12 months, HHS shall submit a national workforce plan that includes:  
+1. Expansion of medical, nursing, and allied‑health education via grants and loan forgiveness;  
+2. Prioritization of primary care, mental health, geriatrics, and rural disciplines;  
+3. A **National Healthcare Corps** with tuition forgiveness up to **$250,000** for five‑year service in underserved areas;  
+4. Annual distribution reports to Congress.
 
-**(a) National Healthcare Workforce Expansion Plan.** Not later than 12 months after enactment, the Secretary of Health and Human Services ("HHS Secretary") shall submit a comprehensive national workforce plan to Congress that includes:
-
-1. Expansion of medical, nursing, and allied-health education through federal grants and loan forgiveness.
-2. Prioritization of primary care, nursing, mental health, geriatrics, and rural disciplines.
-3. Creation of a **National Healthcare Corps** modeled after the National Health Service Corps, offering tuition forgiveness up to $250,000 for five-year commitments in underserved regions.
-4. Annual reports to Congress detailing provider distribution and regional coverage.
-
-**(b) Training Infrastructure.** HHS shall fund residency expansions and clinical training programs in key shortage specialties.
-
-**(c) Telehealth Training and Certification.** A national telemedicine certification program shall ensure provider competency, security, and patient privacy.
-
-**(d) Pipeline Development.** Grants to community and technical colleges shall expand allied health roles, prioritizing rural and underrepresented populations.
+**(b) Training Infrastructure.** Fund residencies and clinical training in shortage specialties.  
+**(c) Telehealth Training.** Establish national telemedicine certification for competency, privacy, and security.  
+**(d) Pipeline Development.** Grants to community colleges for allied roles, prioritizing rural/underrepresented populations.
 
 ---
 
 ### SECTION 13. PUBLIC HEALTH INTEGRATION AND PREVENTION
-
-**(a) Preventive Care Mandate.** Preventive care, including vaccinations, screenings, and wellness visits, shall be fully covered under the HTF with no co-pays or deductibles.
-
-**(b) Data Integration and Population Health.** Public health agencies at federal and state levels shall receive secure, de-identified access to aggregated data from the National Health Portal for epidemiological analysis and disease tracking, consistent with privacy and HIPAA expansions under Section 6(e)(3).
-
-**(c) Chronic Disease Management.** HHS shall establish national care frameworks for management of chronic conditions such as diabetes, cardiovascular disease, asthma, and hypertension, integrating telehealth, pharmacy coordination, and community-based services.
-
-**(d) Emergency Preparedness and Surge Response.** In declared public health emergencies or federal disasters, HTF coverage shall extend seamlessly to all affected individuals. An automatic “surge fund” equal to 2 percent of annual HTF revenues shall be maintained for rapid deployment during such events.
+**(a) Preventive Care.** Preventive services are fully covered with **no co‑pays**.  
+**(b) Data Integration.** Public health agencies receive de‑identified, aggregated Portal data for epidemiology consistent with HIPAA expansions.  
+**(c) Chronic Disease Management.** HHS shall publish standardized, value‑based care frameworks integrating telehealth and pharmacy networks.  
+**(d) Emergency Preparedness.** Maintain a **surge fund equal to 2% of annual HTF revenues** for federally declared emergencies.
 
 ---
 
 ### SECTION 14. HEALTHCARE TECHNOLOGY AND INNOVATION
-
-**(a) Healthcare Innovation Fund.** One percent (1%) of annual HTF expenditures shall be allocated to a Healthcare Innovation Fund administered by HHS to support research and development in—
-
-1. AI-assisted diagnostics and fraud detection;
-2. Interoperable health information technology and cybersecurity;
-3. Rural telehealth infrastructure; and
-4. Medical robotics, digital therapeutics, and home-based care devices.
-
-**(b) Public-Private Partnerships.** HHS may enter cooperative agreements with universities and technology companies to accelerate cost-saving innovations, subject to federal procurement laws and privacy requirements.
-
-**(c) Intellectual Property Retention.** Technologies developed using HTF funds shall be subject to non-exclusive, royalty-free licensing to the United States Government and public entities to ensure equitable access and prevent private monopolization.
+**(a) Innovation Fund.** Allocate **1%** of HTF expenditures to R&D in AI‑assisted diagnostics, interoperability/cybersecurity, rural telemedicine, and digital/home‑based technologies.  
+**(b) Partnerships.** HHS may partner with universities and firms under public licensing.  
+**(c) Intellectual Property.** Technologies developed with HTF funds are publicly licensed on a non‑exclusive basis.
 
 ---
 
 ### SECTION 15. STATE TRANSITION FRAMEWORK
-
-**(a) State Coordination Offices.** HHS shall establish ten regional offices to coordinate implementation with state governments, facilitating the transition of Medicaid beneficiaries and state-funded health programs into the HTF.
-
-**(b) Waiver Authority.** States may apply for five-year renewable waivers to pilot supplemental programs (e.g., dental coverage, alternative payment models) so long as they maintain or exceed national coverage and access standards. Waivers shall be approved by HHS within 180 days of application or deemed granted.
-
-**(c) Funding Alignment.** Federal Medicaid matching funds, Affordable Care Act premium tax credits, and cost-sharing subsidies shall be redirected to the HTF for participating states to ensure fiscal neutrality and continuity of care.
-
-**(d) State Health Portals.** States may link their own health information systems to the National Health Portal under federal cybersecurity standards to provide localized public health dashboards and service coordination.
+**(a) State Coordination.** HHS shall establish regional offices to coordinate Medicaid and state program transitions into HTF.  
+**(b) Waivers.** Five‑year renewable waivers may pilot supplemental programs meeting or exceeding national standards.  
+**(c) Funding Alignment.** Federal Medicaid, ACA subsidies, and related flows are redirected to HTF for participating states to ensure fiscal neutrality.  
+**(d) State Portals.** States may integrate with the National Health Portal under federal cybersecurity standards.
 
 ---
 
 ### SECTION 16. FISCAL ACCOUNTABILITY AND ECONOMIC IMPACT
-
-**(a) Annual Economic Review.** The Congressional Budget Office (CBO) and the Joint Economic Committee shall jointly report annually to Congress on—
-
-1. Total national healthcare expenditures under the Act;
-2. Macroeconomic impact on gross domestic product, employment mobility, and small-business formation; and
-3. Comparative costs and efficiencies relative to pre-Act baselines.
-
-**(b) Efficiency Targets.** If administrative overhead for HTF operations exceeds 7 percent of expenditures or average provider reimbursement delays exceed 30 days, the HHS Secretary shall submit a corrective-action plan to Congress within 90 days.
-
-**(c) Price Transparency.** All HTF-participating providers and facilities must publish their standard charges and HTF reimbursement rates in a machine-readable format accessible via the National Health Portal. Non-compliance may result in civil penalties of up to $100,000 per day until corrected.
-
-**(d) Integration with Section 5.** This Section supersedes duplicative audit and efficiency provisions previously contained in Section 5, consolidating all financial reporting and transparency requirements under this Section.
+**(a) Annual Economic Review.** CBO and the Joint Economic Committee shall report annually on national health expenditures under this Act, macroeconomic effects, and comparisons to pre‑Act baselines.  
+**(b) Efficiency Targets.** If administration exceeds **7%** of outlays or average reimbursement delays exceed **30 days**, HHS must submit a corrective plan within **90 days**.  
+**(c) Price Transparency.** Participating providers must publish machine‑readable HTF reimbursement rates; non‑compliance may incur penalties up to **$100,000/day**.  
+**(d) Integration with Section 5.** This Section consolidates financial reporting and transparency requirements and shall be read in pari materia with Section 5’s triggers, caps, and indexation to **core CPI**.
 
 ---
 
 ### SECTION 17. INTERNATIONAL HEALTHCARE COORDINATION
-
-**(a) Reciprocity Agreements.** The Secretary of State, in consultation with HHS, shall negotiate bilateral or multilateral agreements permitting reciprocal reimbursement for emergency and medically necessary care received by U.S. citizens abroad and foreign nationals in the United States.
-
-**(b) Medical Tourism Oversight.** HHS shall collect and publish annual data on non-resident medical utilization and expenditures to prevent fraud and ensure cost recovery for HTF-funded services.
-
-**(c) Global Data Standards.** HHS shall work with the World Health Organization and the Organization for Economic Co-operation and Development to align U.S. health data interoperability and security standards with international best practices.
+**(a) Reciprocity Agreements.** State and HHS shall negotiate reimbursement reciprocity for emergency and necessary care abroad.  
+**(b) Medical Tourism Oversight.** HHS shall monitor non‑resident utilization and ensure cost recovery.  
+**(c) Global Data Standards.** HHS shall collaborate internationally to align U.S. data standards with best practices.
 
 ---
 
 ### SECTION 18. EVALUATION AND CONTINUOUS IMPROVEMENT
-
-**(a) Five-Year Comprehensive Review.** Every five years after implementation, the Government Accountability Office (GAO) shall conduct a comprehensive system-wide review of the Act’s performance, including metrics on coverage, efficiency, wait times, patient satisfaction, and financial stability. GAO shall submit findings and recommendations for legislative improvement to Congress and the Medical Advisory Committee (MAC).
-
-**(b) Public Feedback Loop.** The National Health Portal shall include a secure public feedback mechanism allowing beneficiaries to report barriers to care, system inefficiencies, or suggested reforms. Aggregated feedback shall be reviewed semi-annually by HHS and the MAC.
-
-**(c) Adaptive Budgeting and Policy Adjustment.** Based on GAO findings, Congress may adjust tax brackets, co-pay structures, or reimbursement caps through joint resolution without re-opening the entire Act, preserving stability while enabling data-driven refinement.
-
-**(d) Integration with Section 6 and Section 8.** Oversight and enforcement shall operate in tandem with this Section; GAO evaluations supplement but do not override HHS or OIG enforcement responsibilities.
+**(a) Five‑Year Review.** GAO shall conduct quinquennial reviews on coverage, efficiency, wait times, satisfaction, and financial stability, with recommendations to Congress and MAC.  
+**(b) Public Feedback Loop.** The Portal shall enable secure beneficiary feedback; HHS and MAC review semi‑annually.  
+**(c) Adaptive Budgeting.** Based on GAO findings, Congress may adjust contribution brackets, co‑pays, or reimbursement limits by joint resolution without reopening the entire Act.  
+**(d) Coordination.** Oversight and enforcement under Sections 6 and 8 operate in tandem with this Section.
 
 ---
 
